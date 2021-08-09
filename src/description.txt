@@ -1,0 +1,7 @@
+Adds 24 new monuments with graphics.
+
+Sanssouci Palace, Charles Bridge, Buda Castle, Smolny Convent, Temple Mount, Rock of Gibraltar, Krantor (Danzig), Cathedral of Monreale, Palazzo Ducale Venecia, Mont-Saint-Michel, Rock of Cashel, Hohenzollern Castle, Royal Naval Academy (Copenhagen), Trakai Island Castle, Marburg University, Schloss Charlottenburg, Fortresses of Sevastopol, Tomb of Cyrus the Great, Uffizi, Fort of Santa Cruz, Trajans Arch, Itsukushima Shrine, Gyeongbokgung Palace, Mount Paektu.
+
+More monuments will be added over time. Open to suggestions.
+
+Should be compatible with other monument expanding mods. Not ironman compatible. Will likely not work with existing save games.
